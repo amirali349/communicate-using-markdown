@@ -13,3 +13,15 @@
 In this exercise, I presented a short introduction to our Python course using github markdown. Hope you enjoyed it. 
 
 ![cat](https://github.com/user-attachments/assets/52bca3f8-16e7-4b2d-bd34-0d802367c63c)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+``` Python
+# This program adds two numbers and print output
+firstNum = 6
+secondNum = 4
+total = firstNum + secondNum
+print(total)
+```
