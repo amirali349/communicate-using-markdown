@@ -25,3 +25,9 @@ secondNum = 4
 total = firstNum + secondNum
 print(total)
 ```
+
+#### Task list
+- [ ] Prepare Lab for this week
+- [ ] Take a quick
+- [ ] Do the project
+- [ ] Present the proposal
